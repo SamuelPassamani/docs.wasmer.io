@@ -68,3 +68,11 @@ Este repositório contém o código-fonte do site de documentação oficial do W
 *   O projeto usa `pnpm` como gerenciador de pacotes. Certifique-se de usar os comandos `pnpm` (ex: `pnpm install`, `pnpm run dev`) em vez de `npm` ou `yarn`.
 *   Ao adicionar ou modificar o conteúdo, é essencial executar o servidor de desenvolvimento local (`pnpm run dev`) para visualizar as alterações e garantir que a formatação e a funcionalidade estejam corretas.
 *   Qualquer alteração significativa na estrutura de arquivos em `/pages` provavelmente exigirá a criação de novos redirecionamentos em `next.config.mjs` para evitar quebrar links existentes.
+
+## 4. Agentes Específicos
+
+### 4.1. Agente "Jules"
+O Agente "Jules" é uma instância de IA especializada encarregada de tarefas de arquitetura de instruções, documentação e execução de missões específicas neste repositório.
+
+*   **Diretriz Principal:** Operar exclusivamente em português.
+*   **Documentação Detalhada:** Para mais informações sobre as capacidades, funcionalidades e o fluxo de trabalho do Agente Jules, consulte o documento [README do Projeto Jules](./docs.wasmer.io/.jules/README.md).
